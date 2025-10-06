@@ -1,0 +1,43 @@
+div{
+                background-color:black;
+                width:900px;
+                height:150px;
+                padding:0;
+                margin:0;
+    }
+.box1 p{
+    background-color: chocolate;
+    text-align: center;
+    margin: 0;
+    left:0;
+    right:0;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box2 p{
+    background-color: crimson;
+    text-align: center;
+    margin:0;
+    left:0;
+    right:0;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box3 p{
+    background-color: darkgoldenrod;
+    text-align: center;
+    margin:0;
+    left:0;
+    right:0;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box4 p{
+    background-color:darkorange;
+    text-align: center;
+    margin:0;
+    left:0;
+    right:0;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
